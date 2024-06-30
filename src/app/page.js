@@ -14,7 +14,6 @@ export default function Home() {
         <CardList />
         <Menu />
       </div>
-      <h1>hello</h1>
     </main>
     
    </>
